@@ -1,0 +1,13 @@
+E:\VSProjects\AssesmentScore\AssesmentScore\bin\Release\AssesmentScore.exe.config
+E:\VSProjects\AssesmentScore\AssesmentScore\bin\Release\AssesmentScore.exe
+E:\VSProjects\AssesmentScore\AssesmentScore\bin\Release\AssesmentScore.pdb
+E:\VSProjects\AssesmentScore\AssesmentScore\bin\Release\itextsharp.dll
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.EconomicUserControl.resources
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.EnvironmentalUserControl.resources
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.Main.resources
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.Properties.Resources.resources
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.SocialUserControl.resources
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.csproj.GenerateResource.Cache
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.exe
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.pdb
+E:\VSProjects\AssesmentScore\AssesmentScore\obj\Release\AssesmentScore.PictureBoxUserControl.resources
